@@ -64,7 +64,10 @@ LOG_LEVEL=info
 Run the application
 npm start
 
-you cna use the swager API at http://localhost:8080/api-docs/#/
+you cna use the 
+# swager API at
+ http://localhost:8080/api-docs/#/
+ 
 Test the health endpoint
 curl http://localhost:8080/health -H "Authorization: Bearer your_jwt_token"
 
