@@ -168,6 +168,3 @@ Unit tests
 Docker configuration
 Swagger documentation
 Video recording (submitted separately)
-
-9. Submission
-Submit to kidus@brain3.ai by midnight, including code, documentation, and video.
